@@ -1,6 +1,6 @@
-﻿using CodeProblems.RemoveElement;
+﻿using Examples.RemoveElement;
 
-namespace CodeProblemsTests.RemoveElement;
+namespace Tests.RemoveElement;
 
 public class RemoveElementSolutionTests
 {

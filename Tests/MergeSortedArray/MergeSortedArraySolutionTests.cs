@@ -1,6 +1,6 @@
-﻿using CodeProblems.MergeSortedArray;
+﻿using Examples.MergeSortedArray;
 
-namespace CodeProblemsTests.MergeSortedArray;
+namespace Tests.MergeSortedArray;
 
 public class MergeSortedArraySolutionTests
 {

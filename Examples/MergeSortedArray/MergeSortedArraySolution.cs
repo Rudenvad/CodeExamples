@@ -1,4 +1,4 @@
-﻿namespace CodeProblems.MergeSortedArray;
+﻿namespace Examples.MergeSortedArray;
 
 public class MergeSortedArraySolution
 {

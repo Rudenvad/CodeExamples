@@ -1,4 +1,4 @@
-﻿namespace CodeProblems.RemoveElement;
+﻿namespace Examples.RemoveElement;
 
 public class RemoveElementSolution
 {
